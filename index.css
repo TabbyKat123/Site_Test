@@ -1,3 +1,25 @@
 p{
-	width: 250px;
+	width: 500px;
+	background-color: pink;
+	text-decoration-color: blue;
+	border:1px solid black;
+	text-align: justify;
+}
+
+#para1{
+	text-align: center;
+	color: grey;
+}
+
+h1{
+	color: blue; font-size:26px;
+}
+
+*{
+	
+	color: blue;
+}
+
+footer{
+	display: block;
 }
